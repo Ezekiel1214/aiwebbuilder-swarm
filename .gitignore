@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+*.log
+*.local
+.vscode/
+.idea/
+coverage/
+*.tsbuildinfo
+
+# Env files (ignore all, keep example)
+.env.*
+!.env.example
+
+# Supabase CLI local state (don’t commit)
+supabase/.temp/
+supabase/.branches/

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "projects": {
+    "default": {
+      "id": "your-project-id",
+      "url": "your-project-url",
+      "anonKey": "your-anon-key"
+    }
+  }
+}
